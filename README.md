@@ -18,14 +18,14 @@
 
 
 
-## TECHNOLOGIES 🖥️
+## TECHNOLOGIES. 🛠️
 ### - *Javascript*
 ### - *CSS*
 ### - *HTML*
 
 
 
-## MADE BY 
+## MADE BY 🔄
 ##  Manuel Pascual
 ##  Alejandro Alcaide
 
