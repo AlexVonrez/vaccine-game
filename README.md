@@ -12,9 +12,9 @@
 
 
 # JOYSTICK 🕹️
-### *LEFT KEY* ⬅️
-### *RIGTH KEY* ➡️
-### *SPACE* 🔫
+### *LEFT KEY*    ⬅️
+### *RIGTH KEY*   ➡️
+### *SPACE*    🔫
 
 
 
