@@ -1,6 +1,6 @@
 # COVID GAME 
 
-## WANT TO PLAY? 🆓
+## WANT TO PLAY? 🆓 👇
 ### Try the demo https://pascualmanuel.github.io/vaccine-game/
 
 
