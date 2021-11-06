@@ -25,7 +25,7 @@
 
 
 
-## MADE BY 🔄
+## MADE IT BY 🔄
 ##  Manuel Pascual
 ##  Alejandro Alcaide
 
