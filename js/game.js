@@ -321,7 +321,9 @@ const covidGame = {
     this.player.lives--
     this.updateLivesMarker()
     if (this.player.lives === 0) {
-      this.initGameover()
+      sounds.game.pause();
+      this.initGameover();
+      
     }
   },
 
@@ -336,8 +338,11 @@ const covidGame = {
 
   initGameover() {
     clearInterval(this.intervalId)
+    sounds.gameOver.play();
+    sounds.gameOver.volume = 0.6;
     setTimeout(function(){ window.location.replace("./index.html");}, 2500);
     this.drawGameover() 
+    
   },
 
   createGameover() {
