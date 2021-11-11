@@ -3,6 +3,9 @@
 ## WANT TO PLAY? 🆓 ⤵️
 ### Try the demo https://pascualmanuel.github.io/vaccine-game/
 
+<img width="1002" alt="Captura COVID" src="https://user-images.githubusercontent.com/89301279/141271178-7c3d4e59-70d5-43e8-bbc5-94f864419ad4.png">
+
+
 
 
 ## GAME 🎮
